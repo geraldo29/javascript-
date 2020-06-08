@@ -1,2 +1,0 @@
-# javascript-
-exercism track
